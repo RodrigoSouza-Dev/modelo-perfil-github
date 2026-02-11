@@ -1,35 +1,29 @@
-# 👋 Olá, eu sou Venilton Falvo Jr
+# 👋 Olá, eu sou Rodrigo Silva de Souza
 
-🎓 Doutor em **Engenharia de Software** pela USP  
-💼 Education Tech Lead na [DIO](https://www.dio.me) | Consultor de TI  
-🌍 Araraquara, São Paulo, Brasil  
+🎓 Graduando em **Engenharia da Computação** pela UNIVESP  
+💼 Desenvolvedor Backend | Dados | Machine Learning | Freelancer em Design & Ilustração  
+🌍 Indaiatuba, São Paulo, Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Sou especialista em **arquitetura de software**, com mais de 16 anos de experiência em soluções **Web, Mobile e Cloud**.  
-Atuo como líder educacional na DIO, promovendo a integração de **Inteligência Artificial** e metodologias inovadoras para ampliar a empregabilidade da comunidade tech.  
+Sou um profissional em formação sólida em **Engenharia da Computação**, com foco em **desenvolvimento backend, ciência de dados e machine learning**, aliado a uma forte base analítica e visão prática de negócio.
 
-- 🔹 Experiência em **Java, Android (Kotlin/Java), Python e Cloud (AWS, Azure)**  
-- 🔹 Certificações: AWS, Oracle Java, Google Android, Microsoft .NET  
-- 🔹 Pesquisador em IA aplicada à educação  
-- 🔹 Consultor de TI em projetos estratégicos de alta performance  
+Tenho experiência com projetos acadêmicos, bootcamps intensivos e aplicações reais, além de atuar como **freelancer em ilustração e design gráfico**, o que reforça minha criatividade, comunicação visual e pensamento sistêmico.
+
+- 🔹 Experiência em **Python, Django, Java, SQL e Análise de Dados**  
+- 🔹 Conhecimentos em **Machine Learning, Estatística e Engenharia de Dados**  
+- 🔹 Formação complementar pela **Digital Innovation One (DIO)**  
+- 🔹 Interesse em **tecnologia financeira, IA aplicada e soluções escaláveis**  
 
 ---
 
 ## 🛠️ Principais Competências
-- **Linguagens:** Java, Kotlin, Python, HTML5, CSS3, JavaScript  
-- **Plataformas:** Android, .NET, AWS, Cloud Computing  
-- **Áreas de atuação:** Arquitetura de Software, Educação Tech, IA aplicada, Backend Financeiro  
-
----
-
-## 📊 GitHub Stats
-![Venilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=radical)
+- **Linguagens:** Python, Java, SQL, JavaScript  
+- **Frameworks & Ferramentas:** Django, Tkinter, Pandas, NumPy, Scikit-learn  
+- **Áreas de atuação:** Backend, Ciência de Dados, Machine Learning, Automação  
 
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com/in/falvojr)  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/rodrigo-souza-ti/))
