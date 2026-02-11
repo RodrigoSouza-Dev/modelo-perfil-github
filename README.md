@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Rodrigo Silva de Souza
 
 🎓 Graduando em **Engenharia da Computação** pela UNIVESP  
-💼 Desenvolvedor Backend | Dados | Machine Learning | Freelancer em Design & Ilustração  
+💼 Desenvolvedor Backend | Dados | Machine Learning | Freelancer em Design & Ilustração 
 🌍 Indaiatuba, São Paulo, Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Sou um profissional em formação sólida em **Engenharia da Computação**, com foco em **desenvolvimento backend, ciência de dados e machine learning**, aliado a uma forte base analítica e visão prática de negócio.
+Sou um profissional em formação em **Engenharia da Computação**, com foco em **desenvolvimento backend, ciência de dados e machine learning**, aliado a uma forte base analítica e visão prática de negócio.
 
 Tenho experiência com projetos acadêmicos, bootcamps intensivos e aplicações reais, além de atuar como **freelancer em ilustração e design gráfico**, o que reforça minha criatividade, comunicação visual e pensamento sistêmico.
 
@@ -21,7 +21,7 @@ Tenho experiência com projetos acadêmicos, bootcamps intensivos e aplicações
 ## 🛠️ Principais Competências
 - **Linguagens:** Python, Java, SQL, JavaScript  
 - **Frameworks & Ferramentas:** Django, Tkinter, Pandas, NumPy, Scikit-learn  
-- **Áreas de atuação:** Backend, Ciência de Dados, Machine Learning, Automação  
+- **Áreas de atuação:** Backend, Ciência de Dados, Machine Learning 
 
 ---
 
